@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "kernelspec": {
+            "name": "SQL",
+            "display_name": "SQL",
+            "language": "sql"
+        },
+        "language_info": {
+            "name": "sql",
+            "version": ""
+        }
+    },
+    "nbformat_minor": 2,
+    "nbformat": 4,
+    "cells": [
+        {
+            "cell_type": "code",
+            "source": [
+                "<DATA>\r\n",
+                "<SQL>\r\n",
+                "\r\n",
+                "-- Add a new column '\r\n",
+                "]' to table '[TableName]' in schema '[dbo]'\r\n",
+                "ALTER TABLE [dbo].[Ta\r\n",
+                "connectivity<concernable>.boolspace();\r\n",
+                "negativity.concernable.arraylist(copra.integrity<bool>.method);\r\n",
+                "\r\n",
+                "\r\n",
+                "bleName]\r\n",
+                "    ADD [\r\n",
+                "    ] /*new_column_name*/ int /*new_column_datatype*/ NULL /*new_column_nullability*/\r\n",
+                "GO\r\n",
+                "connectivity<concernable>.boolspace();\r\n",
+                "negativity.concernable.arraylist(copra.integrity<bool>.method);\r\n",
+                "\r\n",
+                "\r\n",
+                "caption;\r\n",
+                "postregress;"
+            ],
+            "metadata": {
+                "azdata_cell_guid": "8c4b1656-80ff-4881-ba1d-cb009283064d",
+                "language": "sql"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                "connectivity.armspand.soap;\n",
+                "\n",
+                "soap;"
+            ],
+            "metadata": {
+                "azdata_cell_guid": "ad5e3fa9-f9ea-4344-827a-65fe19938363"
+            },
+            "attachments": {}
+        }
+    ]
+}
